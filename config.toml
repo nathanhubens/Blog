@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://nathanhubens.github.io"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Nathan Hubens"
@@ -70,15 +70,8 @@ disqusShortname = "yourdiscussshortname"
 [params.share]
 Twitter = true
 Facebook = true
-#Reddit = true
+Reddit = true
 Linkedin = true
-#Pinterest = true
-#HackerNews = true
-#Mix = true
-#Tumblr = true
-#VKontakte = true
-#Douban = true
-#Weibo = true
 
 # Used only for Seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
