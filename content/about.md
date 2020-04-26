@@ -16,4 +16,4 @@ Since then, in addition to my engineering school, I took several MOOCS:
 - fast.ai by Jeremy Howard and Rachel Thomas that I now follow live
 
 
-For more information, please take a look at my [resume](../cv.pdf)
+For more information, please take a look at my [resume](../cv.pdf) or send me a mail at nathan.hubens@gmail.com
