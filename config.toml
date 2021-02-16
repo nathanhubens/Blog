@@ -30,9 +30,15 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
 
   [[menu.main]]
+    name = "fasterai"
+    url = "/fasterai/"
+    weight = 2
+
+  [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 2
+    weight = 3
+
 
 [params]
     since = 2018
