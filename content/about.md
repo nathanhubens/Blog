@@ -6,7 +6,7 @@ aliases = ["about-us","contact"]
   name = "Nathan Hubens"
 +++
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=313131&height=180&section=header&text=Hi%20There!%20I'm%20Nathan%20☾%20&fontSize=30&fontColor=FFFFFF&animation=FadeIn&fontAlignY=38&&descAlignY=80&descAlign=62)
+# Hi There ! I'm Nathan ☾
 
 I'm a PhD Student based in Belgium. I am mostly interested in making neural networks smaller and faster ✂️
 
