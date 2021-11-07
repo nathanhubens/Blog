@@ -10,12 +10,15 @@ aliases = ["about-us","contact"]
 
 
 
-
+<br>
 
 I'm a PhD Student based in Belgium. I am mostly interested in making neural networks smaller and faster ✂️
 
-
 ### ☯︎ Connect with me
+
+<img align="left" src="https://img.shields.io/badge/-@HubensN-313131?style=flat&labelColor=313131&logo=twitter&logoColor=white&color=313131"> 
+
+
 
 [![twitter](https://img.shields.io/badge/-@HubensN-313131?style=flat&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/HubensN) 
 
