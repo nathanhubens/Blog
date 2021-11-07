@@ -8,12 +8,16 @@ aliases = ["about-us","contact"]
 
 # Hi There ! I'm Nathan ☾
 
+
+
+
+
 I'm a PhD Student based in Belgium. I am mostly interested in making neural networks smaller and faster ✂️
 
 
 ### ☯︎ Connect with me
 
- [![twitter](https://img.shields.io/twitter/follow/HubensN?label=Follow Me&style=flat&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/HubensN)  
+[![twitter](https://img.shields.io/badge/-@HubensN-313131?style=flat&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/HubensN) 
 
 
 ### ☯︎ Latest blog posts
