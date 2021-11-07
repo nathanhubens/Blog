@@ -16,13 +16,6 @@ I'm a PhD Student based in Belgium. I am mostly interested in making neural netw
 
 ### Connect with me
 
-
-<p align="left">
-	[![twitter](https://img.shields.io/badge/-@HubensN-313131?style=flat&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/HubensN) 
-	[![github](https://img.shields.io/badge/-nathanhubens-313131?style=flat&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/nathanhubens) 
-</p>
-
-
 [![twitter](https://img.shields.io/badge/-@HubensN-313131?style=flat&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/HubensN) [![github](https://img.shields.io/badge/-nathanhubens-313131?style=flat&labelColor=313131&logo=github&logoColor=white&color=313131)](https://github.com/nathanhubens) 
 
 
