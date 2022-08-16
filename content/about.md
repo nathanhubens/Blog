@@ -26,6 +26,10 @@ I'm a PhD Student based in Belgium. I am mostly interested in making neural netw
 - [Speed-up inference with Batch Normalization Folding](https://nathanhubens.github.io/posts/deep%20learning/2020/04/20/BN.html)
 - [Build a simple Image Retrieval System with an Autoencoder](https://nathanhubens.github.io/posts/deep%20learning/2018/08/24/image-retrieval.html)
 
+
+
+You can also take a look at my [resume](../cv.pdf) !
+
 ---
 
 
